@@ -1,2 +1,2 @@
-its a job display website
-Malenga Mwenye Lengo designs .
+# Malenga Mwenye Lengo Designs E-Commerce Project
+Instructions to run project
