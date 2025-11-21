@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Graphic Design Package",
+        "price": 1500,
+        "image": "https://via.placeholder.com/150",
+        "description": "Professional graphics for your business."
+    },
+    {
+        "id": 2,
+        "name": "Website Design Package",
+        "price": 5000,
+        "image": "https://via.placeholder.com/150",
+        "description": "Modern and responsive websites."
+    },
+    {
+        "id": 3,
+        "name": "Digital Marketing Package",
+        "price": 3000,
+        "image": "https://via.placeholder.com/150",
+        "description": "Social media and online marketing services."
+    },
+    {
+        "id": 4,
+        "name": "Logo Design",
+        "price": 1000,
+        "image": "https://via.placeholder.com/150",
+        "description": "Custom logos that stand out."
+    }
+]
